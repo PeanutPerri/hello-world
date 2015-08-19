@@ -1,5 +1,5 @@
 # hello-world
-it's mine
+It's mine
 
 Hi World,
 
